@@ -68,7 +68,7 @@ h1{
 	font-size: 75px;
 }
 h3{
-	color: white;
+	color: navy;
 	font-size: 25px;
 	margin-bottom: 50px;
 }
@@ -113,7 +113,8 @@ h4{
 	height: auto;
 	width: 430px;
 	border-radius: 30px;
-	border-box: gray;
+	border-style: groove;
+	border-color: navy;
 }
 .about-text{
 	width: 550px;
